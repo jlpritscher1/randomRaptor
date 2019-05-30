@@ -1,0 +1,19 @@
+.nav-grid{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    background: linear-gradient(rgb(161,161,164), rgb(206,17,65), rgb(180,151,90) );
+}
+
+.nav-grid li{
+    display: inline;
+    padding: 20px;
+    list-style-type: none;
+}
+
+a{
+    color:rgb(6,25,34);
+    font-size: 500%;
+}
+

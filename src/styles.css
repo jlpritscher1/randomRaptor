@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+html, body{
+    background-color: rgb(161,161,164);
+}
+
+h2{
+    color: rgb(206,17,65);
+    text-align: center;
+    font-style: italic;
+    padding: 25px;
+}
+
+h3{
+    color: rgb(206,17,65);
+    font-family: fantasy;
+    font-size: 300%;
+}
